@@ -1,6 +1,0 @@
-hello stefan!
-<<<<<<< HEAD
-Hallo Stefaaaan!
-=======
-This file is awesome!
->>>>>>> master
