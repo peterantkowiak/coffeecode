@@ -1,6 +1,8 @@
 hello stefan!
-<<<<<<< Updated upstream
+
 This file is awesome!
-=======
+
 Hallo Stefaaaan!
->>>>>>> Stashed changes
+
+
+Hallo Anjaaaaaaaaaa!
